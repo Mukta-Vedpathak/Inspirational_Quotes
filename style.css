@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+
+.zero{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(234, 170, 199);
+    margin-top: 50px;
+    margin-left:25%;
+    width: 50%;
+    padding: 10px;
+}
+
+.one{
+    margin-left:25%;
+    width: 50%;
+    margin-top: 50px;
+    color:yellow;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;   
+    font-size:30px ; 
+}
+
+#img1{
+    width: 100%;
+    border: 5px solid yellow;
+}
+
+h1{
+    color:white;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.two{
+    margin-left: 25%;
+    width: 50%;
+    color:blue;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;   
+    font-size:30px ;
+}
+
+#img2{
+    width:100%;
+    height:500 px;
+    border: 5px solid blue;
+}
+
+.three{
+    margin-left: 25%;
+    width: 50%;
+    color:indianred;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;   
+    font-size:30px ;
+}
+
+#img3{
+    width:100%;
+    height:500 px;
+    border: 5px solid indianred;
+}
+
+.four{
+    margin-left: 25%;
+    width: 50%;
+    color:greenyellow;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;   
+    font-size:30px ;
+}
+
+#img4{
+    width:100%;
+    height:500 px;
+    border: 5px solid greenyellow;
+}
+
+.five{
+    margin-left: 25%;
+    width: 50%;
+    color:plum;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;   
+    font-size:30px ;
+}
+
+#img5{
+    width:100%;
+    height:500 px;
+    border: 5px solid plum;
+}
